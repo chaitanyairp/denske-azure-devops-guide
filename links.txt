@@ -4,3 +4,6 @@ https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOp
 
 
 https://learn.hashicorp.com/collections/terraform/docker-get-started
+
+
+https://forms.gle/Ujp6QepiGVqj44jY7
